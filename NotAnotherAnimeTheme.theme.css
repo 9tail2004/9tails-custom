@@ -1,5 +1,5 @@
 /**
-* @name NotAnotherAnimeTheme
+* @name 9tailCustom
 * @author puckzxz#2080
 * @version 3.2
 * @description An easily customizable and automatically updating theme
@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://wallpaperaccess.com/full/259549.jpg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjHZLsCrUliJ4OtYKTuWuurMdG2xm9Bv81TxlsDy8S3lR2B23kWObg1WVWjgBRRqUrEvk&usqp=CAU);
 
   /*
     Change your friends icon image position
@@ -50,7 +50,7 @@
 
   /*
     Server Listing Width
-    Single Column:  62px
+    Single Column:  72px
     Double Column:  126px
     Triple Column:  184px
     Quad Column:    242px
